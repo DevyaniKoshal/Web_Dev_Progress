@@ -1,0 +1,62 @@
+p{
+    font-family: Dancing Script;
+    text-align: center;
+    font-weight: bolder;
+    margin-top:0;
+    margin-bottom:0;
+    font-size:20px;
+}
+.new{
+    color:rgb(123, 212, 6);  
+    font-size: 15px;
+}
+.mac{
+    margin-top:5px;
+    font-size: 25px;;
+}
+.pro{
+    margin-top:4px;
+    font-size: 45px;
+}
+.s10{
+    margin-top:7px;
+    font-size: 18px;
+    color:rgb(134, 130, 130);
+    font-weight: lighter;
+
+}
+.buy{
+    color:rgb(255, 255, 255);
+    background-color: rgb(252, 52, 145);
+    border-radius: 15px;
+    border:none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: Dancing Script;
+    display: block;
+    width: 75px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 12px;
+    font-size: 20px;
+}
+.newe{
+    margin-left:10px;
+    color:rgb(3, 78, 59);
+    font-size: 14px;
+
+}
+.web{
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: lighter;
+    margin-top:15px;
+    width:300px;
+    line-height: 30px;
+    text-align: center;
+    
+
+}
+.ji{
+    color:rgb(12, 188, 211);
+}
